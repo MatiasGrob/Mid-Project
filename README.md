@@ -4,7 +4,7 @@ This repository contains the files related to the Mid-Project by @MatiasGrob.
 
 ## Project Overview
 
-The Mid-Project aims to explore the relationship between the 3 biggest stock markets in the US and some of the most relevant and most traded assets in the world, including currencies, rates, commodities, and others. The project involves conducting hypothesis tests to compare daily return data and analyzing various asset prices.
+Explore the relationship between the three largest stock markets in the US and selected international markets such as the Shanghai Stock Exchange, Euronext 100 Index, and Nikkei 225 Index. The project aims to analyze asset prices, daily volatility, and daily returns, while also conducting hypothesis tests to compare the performance of these different assets.
 
 ## Files
 
@@ -20,12 +20,6 @@ The Mid-Project aims to explore the relationship between the 3 biggest stock mar
 
 Click [here](https://public.tableau.com/app/profile/mat.as.grob/viz/MidProjectFinal_16729364906160/Story1?publish=yes) - This file contains the final presentation for the project, summarizing the insights and findings.
 
-
-## Project Details
-
-### Project Objective
-
-The objective of the Mid-Project is to explore the relationship between the three largest stock markets in the US (New York Stock Exchange NYSE and Nasdaq Composite) and selected international markets such as the Shanghai Stock Exchange, Euronext 100 Index, and Nikkei 225 Index. The project aims to analyze asset prices, daily volatility, and daily returns, while also conducting hypothesis tests to compare the performance of these different assets.
 ### Building our Dataframe
 
 The project involved extracting the asset prices and related data from Yahoo Finance using the provided ticker symbols.
