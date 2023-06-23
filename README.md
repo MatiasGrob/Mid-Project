@@ -1,4 +1,4 @@
-# MatiasGrob Mid-Project
+# Mid-Project
 
 This repository contains the files related to the Mid-Project by @MatiasGrob.
 
@@ -21,6 +21,14 @@ The Mid-Project aims to explore the relationship between the 3 biggest stock mar
 ### Project Objective
 
 The objective of the Mid-Project is to explore the relationship between the 3 biggest stock markets in the US and various assets. The project aims to analyze asset prices, daily volatility, and daily returns, and conduct hypothesis tests to compare different assets.
+
+### Building our Dataframe
+
+To create the database for the Mid-Project analysis, historical data for a selection of assets was extracted from Yahoo Finance. The assets include stock market indexes, currencies, rates, and commodities.
+
+Using the provided ticker symbols, data was downloaded for each asset within a specific date range. A new column called "ticker" was added to identify the data associated with each asset.
+
+All the individual dataframes were then combined into a single dataframe, resulting in a comprehensive database for further analysis.
 
 ### Assets Included
 
