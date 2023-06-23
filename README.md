@@ -1,4 +1,4 @@
-# Mid-Project: Exploring the Relationship between the 3 Biggest Stock Markets in the US and Global Assets
+# Mid-Project: Analyzing the Correlation between the Largest Stock Markets and Key Global Assets
 
 This repository contains the files related to the Mid-Project by @MatiasGrob.
 
@@ -24,11 +24,7 @@ The objective of the Mid-Project is to explore the relationship between the 3 bi
 
 ### Building our Dataframe
 
-To create the database for the Mid-Project analysis, historical data for a selection of assets was extracted from Yahoo Finance. The assets include stock market indexes, currencies, rates, and commodities.
-
-Using the provided ticker symbols, data was downloaded for each asset within a specific date range. A new column called "ticker" was added to identify the data associated with each asset.
-
-All the individual dataframes were then combined into a single dataframe, resulting in a comprehensive database for further analysis.
+The project involved extracting the asset prices and related data from Yahoo Finance using the provided ticker symbols.
 
 ### Assets Included
 
