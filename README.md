@@ -16,6 +16,11 @@ The Mid-Project aims to explore the relationship between the 3 biggest stock mar
 
 - [Mid-Project (Daily Return Data with Hypothesis Test).ipynb](./Mid-Project%20(Daily%20Return%20Data%20with%20Hypothesis%20Test).ipynb): This file includes the hypothesis test analysis on daily return data.
 
+## Tableau Presentation
+
+Click [here](https://public.tableau.com/app/profile/mat.as.grob/viz/MidProjectFinal_16729364906160/Story1?publish=yes) to view the Tableau presentation.
+
+
 ## Project Details
 
 ### Project Objective
