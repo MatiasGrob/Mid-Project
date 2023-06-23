@@ -25,8 +25,7 @@ Click [here](https://public.tableau.com/app/profile/mat.as.grob/viz/MidProjectFi
 
 ### Project Objective
 
-The objective of the Mid-Project is to explore the relationship between the 3 biggest stock markets in the US and various assets. The project aims to analyze asset prices, daily volatility, and daily returns, and conduct hypothesis tests to compare different assets.
-
+The objective of the Mid-Project is to explore the relationship between the three largest stock markets in the US (New York Stock Exchange NYSE and Nasdaq Composite) and selected international markets such as the Shanghai Stock Exchange, Euronext 100 Index, and Nikkei 225 Index. The project aims to analyze asset prices, daily volatility, and daily returns, while also conducting hypothesis tests to compare the performance of these different assets.
 ### Building our Dataframe
 
 The project involved extracting the asset prices and related data from Yahoo Finance using the provided ticker symbols.
