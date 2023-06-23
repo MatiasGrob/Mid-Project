@@ -4,7 +4,7 @@ This repository contains the files related to the Mid-Project by @MatiasGrob.
 
 ## Project Overview
 
-Explore the relationship between the three largest stock markets in the US and selected international markets such as the Shanghai Stock Exchange, Euronext 100 Index, and Nikkei 225 Index. The project aims to analyze asset prices, daily volatility, and daily returns, while also conducting hypothesis tests to compare the performance of these different assets.
+Explore the relationship between the three largest stock markets in the US and selected international markets such as the Shanghai Stock Exchange, Euronext 100 Index, and Nikkei 225 Index with different key assets, including currencies, rates, commodities, and more. The project aims to analyze asset prices, daily volatility, and daily returns, while also conducting hypothesis tests to compare the performance of these different assets.
 
 ## Files
 
