@@ -18,7 +18,7 @@ The Mid-Project aims to explore the relationship between the 3 biggest stock mar
 
 ## Tableau Presentation
 
-Click [here](https://public.tableau.com/app/profile/mat.as.grob/viz/MidProjectFinal_16729364906160/Story1?publish=yes) to view the Tableau presentation.
+Click [here](https://public.tableau.com/app/profile/mat.as.grob/viz/MidProjectFinal_16729364906160/Story1?publish=yes) - This file contains the final presentation for the project, summarizing the insights and findings.
 
 
 ## Project Details
