@@ -1,4 +1,4 @@
-# Mid-Project
+# Mid-Project: Exploring the Relationship between the 3 Biggest Stock Markets in the US and Global Assets
 
 This repository contains the files related to the Mid-Project by @MatiasGrob.
 
